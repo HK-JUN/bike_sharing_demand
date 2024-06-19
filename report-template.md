@@ -39,7 +39,7 @@ If I spent more time on this project, I would like to study more about how to op
 ### Create a line plot showing the top training score for the three (or more) prediction submissions during the project.
 
 
-![model_train_score_model.png](img/model_train_score_model.png)
+![model_train_score_model.png](model_train_score_model.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
