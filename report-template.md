@@ -34,12 +34,12 @@ If I spent more time on this project, I would like to study more about how to op
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 In this project, I tried to predict bike sharing demand based on given features through EDA and Autogluon TablurPredictor.
